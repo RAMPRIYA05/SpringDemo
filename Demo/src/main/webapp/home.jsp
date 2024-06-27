@@ -7,13 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-     <form action="/success">
-     <h1>Home</h1>
-     <button>Submit</button>
-    
-     </form>
      
-    
      <a href="register.jsp"><button>Register</button></a> 
      
      <form action="/listOfUsers" method="get">

@@ -1,6 +1,9 @@
 package com.chainsys.Demo.model;
-
 public class User {
+	
+	public User() {
+		
+	}
     String name;
     String emailId;
     String password;

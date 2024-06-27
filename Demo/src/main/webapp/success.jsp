@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>Success</h3>
 
+<form action="/listOfUsers" method="get">
+     <button>List of Users</button>
+     </form>
 </body>
 </html>

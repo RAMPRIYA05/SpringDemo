@@ -10,11 +10,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <form action="/search" method="get">
-     <h4>Search:<input type="email" placeholder="Enter your Search EmailId" name="emailId"><br></h4>
+     <h4>Search:<input type="search" placeholder="Enter your Search EmailId" name="emailId" id="emailId"><br></h4>
 </form>
 
-<form>
+
  <table border="1">
 			<thead>
 				<tr>
@@ -55,7 +56,7 @@ for(User obj:list)
 %>
    </table> 
 
-</form>
+
 
 </body>
 </html>
